@@ -56,7 +56,7 @@
     "hdkey": "^1.1.1",
     "regenerator-runtime": "^0.13.3",
     "squarelink": "^1.1.4",
-    "trezor-connect": "7.0.1",
+    "trezor-connect": "^8.0.13",
     "web3-provider-engine": "^15.0.4"
   },
   "scripts": {

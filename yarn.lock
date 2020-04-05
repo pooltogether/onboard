@@ -735,7 +735,7 @@
   dependencies:
     regenerator-runtime "^0.12.0"
 
-"@babel/runtime@^7.3.1", "@babel/runtime@^7.5.5", "@babel/runtime@^7.8.4":
+"@babel/runtime@^7.5.5", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4":
   version "7.9.2"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.9.2.tgz#d90df0583a3a252f09aaa619665367bae518db06"
   integrity sha512-NE2DtOdufG7R5vnfQUTehdTfNycfUANEtCa9PssN9O/xmTzP4E08UI797ixaei6hBEVL9BI/PsdJS5x7mWoB9Q==
@@ -5975,12 +5975,12 @@ tough-cookie@~2.5.0:
     psl "^1.1.28"
     punycode "^2.1.1"
 
-trezor-connect@7.0.1:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/trezor-connect/-/trezor-connect-7.0.1.tgz#e57103729026177a92bfdefb64dd0d38f921ab1f"
-  integrity sha512-cMPwSGMfBpp4z5AZvpRwbYNOJU/X+WaxPm+O1Bl1qsdtpl1P4mX81KDtImY6GBk0xC8aKyOd/ZIqYWXZF9tCRQ==
+trezor-connect@^8.0.13:
+  version "8.0.13"
+  resolved "https://registry.yarnpkg.com/trezor-connect/-/trezor-connect-8.0.13.tgz#e69bfe9db22ed0bc8a91b3bfc95d1ff392a808f7"
+  integrity sha512-A+c2lNJKcgAm1nBtKeI3usDvZGMGcPifc7YwBYyY9zqAYKYn2RUrHCC73DkbwOfJazrwvEs3wjV4yY4xch8HEQ==
   dependencies:
-    "@babel/runtime" "^7.3.1"
+    "@babel/runtime" "^7.7.2"
     events "^3.0.0"
     whatwg-fetch "^3.0.0"
 
